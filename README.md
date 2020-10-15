@@ -1,4 +1,6 @@
-### Hi there 👋
+Blog: [https://im.shellj.com](https://im.shellj.com)
+
+![shellj](https://github-readme-stats.vercel.app/api?username=shellj&show_icons=true)
 
 <!--
 **shellj/shellj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
